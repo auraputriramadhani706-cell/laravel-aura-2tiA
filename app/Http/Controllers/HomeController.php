@@ -12,7 +12,7 @@ class HomeController extends Controller
     public function index()
     {
      $data = [
-	      'username'        => 'Halaman namanya',
+	      'username'        => 'ANAK SHOLEH',
 	      'last_login'      => date('Y-m-d H:i:s'),
 	      'list_pendidikan' => ['SD', 'SMP', 'SMA', 'S1', 'S2', 'S3']
 	  ];
